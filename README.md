@@ -39,3 +39,6 @@ https://wireframe.cc/1V8oUn
 #### Day 5:
 * Go over code and fix any bugs
 * Finalize for presentation
+
+## Bonus Features
+* Sound Equalizer functionality
